@@ -1,11 +1,11 @@
 {
   "name": "product",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:dev": "nodemon src/main.js",
-    "start" : "nodemon src/main"
+    "start": "nodemon src/main"
   },
   "keywords": [],
   "author": "asal",
